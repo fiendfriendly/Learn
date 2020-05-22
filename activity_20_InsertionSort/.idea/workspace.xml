@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6108a760-a9cc-4553-9cdb-e18e5c63291f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1a03lsAhwLhTsISlTVKZbXDOaar" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cory\IdeaProjects\activity_20_InsertionSort\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InsertionSortSolved">
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
+      <module name="activity_20_InsertionSort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSortSolved" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSortSolved" />
+      <module name="activity_20_InsertionSort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InsertionSortSolved" />
+        <item itemvalue="Application.InsertionSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6108a760-a9cc-4553-9cdb-e18e5c63291f" name="Default Changelist" comment="" />
+      <created>1585858837716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585858837716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1281" height="170" key="GridCell.Tab.0.bottom" timestamp="1585863917911">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585863917911" />
+    <state width="1281" height="170" key="GridCell.Tab.0.center" timestamp="1585863917911">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585863917911" />
+    <state width="1281" height="170" key="GridCell.Tab.0.left" timestamp="1585863917911">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585863917911" />
+    <state width="1281" height="170" key="GridCell.Tab.0.right" timestamp="1585863917911">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585863917911" />
+    <state width="1281" height="213" key="GridCell.Tab.1.bottom" timestamp="1585863674872">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585863674872" />
+    <state width="1281" height="213" key="GridCell.Tab.1.center" timestamp="1585863674872">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585863674872" />
+    <state width="1281" height="213" key="GridCell.Tab.1.left" timestamp="1585863674872">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585863674872" />
+    <state width="1281" height="213" key="GridCell.Tab.1.right" timestamp="1585863674872">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585863674872" />
+    <state x="336" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1586213550543">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586213550543" />
+    <state x="90" y="0" key="new project wizard" timestamp="1586213588315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="90" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1586213588315" />
+  </component>
+</project>
